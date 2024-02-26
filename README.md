@@ -1,0 +1,2 @@
+# OpenHarmony_Adaptation_Pack
+主要为 OpenHarmony轻量系统的芯片开发板适配软件包
